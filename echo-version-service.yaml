@@ -10,4 +10,5 @@ spec:
     targetPort: 8080
   selector:
     app: echo-version
-    color: blue
+#     color: blue 
+    color: green
