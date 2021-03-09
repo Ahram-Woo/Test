@@ -6,7 +6,7 @@ metadata:
     app: echo-version
     color: green
 spec:
-  replicas: 1
+  replicas: 5
   selector:
     matchLabels:
       app: echo-version
